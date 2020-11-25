@@ -11,6 +11,6 @@ export const HeaderContainer = styled.header`
   max-width: 1200px;
   height: 60px;
   width: 100%;
-  background-color: transparent;
+  background: white;
   z-index: 100;
 `;
